@@ -3,7 +3,7 @@ package footballdata;
 import footballdata.environmentconfig.TestConfig;
 import org.junit.Test;
 
-import static io.restassured.RestAssured.given;
+import static io.restassured.RestAssured.*;
 
 public class ParametersExamples extends TestConfig {
 
